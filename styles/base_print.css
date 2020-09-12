@@ -1,0 +1,76 @@
+
+
+P {
+	font-family: metaplusnormal, sans-serif;
+	font-size: 10pt;
+	line-height: 12pt;
+	color: rgb(51,51,51);	
+}
+
+.bold {
+	font-weight: 800;
+}
+
+.divisionhead {
+	font-weight: 800;
+	color: rgb(102,102,102);
+}
+
+.subhead {
+	font-weight: 800;
+	color: rgb(102,102,102);
+	margin-top: 1em;		
+	margin-bottom: 1mm;		
+}
+
+.subsubhead {
+	color: rgb(102,102,102);
+	font-weight: bold;
+	margin-bottom: 1mm;		
+}
+
+P.firstp {
+	margin-top: 1mm;
+}
+
+B {
+	font-weight: 700;
+	color: rgb(204,102,0);
+}			
+
+.blockquote {
+	margin-left: 3em;
+	margin-right: 3em;
+	color: rgb(102,102,102);
+}
+
+.olitem {
+	margin-top: 2mm;
+	margin-bottom: 1mm;
+}
+
+ul,ol,li {
+	font-family: metaplusnormal, sans-serif;
+	font-size: 10pt;
+	line-height: 12pt;
+	color: rgb(51,51,51);
+	margin-top: 2mm;
+	margin-bottom: 1mm;	
+}
+
+.dt {
+	font-family: metaplusnormal, sans-serif;
+	font-size: 10pt;
+	color: rgb(51,51,51);	
+	margin-top: 2mm;
+	margin-bottom: 1mm;
+}
+
+.dtb {
+	font-family: metaplusnormal, sans-serif;
+	font-size: 10pt;
+	color: rgb(102,102,102);	
+	margin-top: 2mm;
+	margin-bottom: 1mm;
+	font-weight: bold;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title><$MTBlogName encode_html="1"$>: Thank You for Commenting</title>
+<link rel="stylesheet" href="<$MTBlogURL$>styles-site.css" type="text/css" />
+<link media="all" href="http://www.billyclark.net/styles/base_screen.css" type="text/css" rel="StyleSheet" />
+
+<script language="JavaScript">
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+</script>
+</head>
+
+<body>
+
+<div id="container">
+
+	<div idNOT="banner">
+	
+		<a href="<$MTBlogURL$>"><img src="http://www.billyclark.net/blogsbilly/i/specs.gif" alt="music, language, life and leftovers" border="1" style="display:block;width:185px;height:60px;margin-right:10px;" align="left" onmouseover="this.className='xhover'" onmouseout="this.className='xlink'" class="xlink" /></a> <a href="http://www.billyclark.net/"><img src="http://www.billyclark.net/images/littleme.jpg" alt="main dish" border="1" style="display:block;width:80px;height:80px;margin-right:10px;" align="right" onmouseover="this.className='xhover'" onmouseout="this.className='xlink'" class="xlink" /></a>
+	
+		<h1>
+		<a href="<$MTBlogURL$>" accesskey="1"><$MTBlogName encode_html="1"$></a></h1>
+		
+		<p>
+		<span class="subject">Billy Clark</span> | billy@pumpernickle.net | This is my blog. My main site is <a href="http://www.billyclark.net/">here</a></p>
+		
+		<p align="center">
+		<$MTBlogDescription$></p>
+	
+	</div>
+
+<div class="content">
+
+<h2>Thank You for Commenting</h2>
+
+<p>Your comment has been received. To protect against malicious comments, I have enabled a feature that allows your comments to be held for approval the first time you post a comment. I'll approve your comment when convenient; there is no need to re-post your comment.
+
+<a href="<MTEntryLink>">Return to the comment page</a></p>
+
+</div>
+</div>
+
+</body>
+</html>

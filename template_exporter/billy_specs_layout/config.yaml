@@ -1,0 +1,90 @@
+template_sets:
+  billy_specs_layout:
+    label: Billy specs layout
+    base_path: templates
+    order: 1000
+    templates:
+      index:
+        atom_index:
+          label: Atom Index
+          outfile: atom.xml
+          rebuild_me: 1
+        main_index:
+          label: Main Index
+          outfile: index.html
+          rebuild_me: 1
+        master_archive_index:
+          label: Master Archive Index
+          outfile: archives.html
+          rebuild_me: 1
+        profile_page:
+          label: Profile page
+          outfile: about/index.html
+          rebuild_me: 1
+        rsd:
+          label: RSD
+          outfile: rsd.xml
+          rebuild_me: 1
+        rss_10_index:
+          label: RSS 1.0 Index
+          outfile: index.rdf
+          rebuild_me: 1
+        rss_20_index:
+          label: RSS 2.0 Index
+          outfile: index.xml
+          rebuild_me: 1
+        stylesheet:
+          label: Stylesheet
+          outfile: styles-site.css
+          rebuild_me: 1
+      individual:
+        individual_entry_archive:
+          label: Individual Entry Archive
+          mappings:
+            individual:
+              archive_type: Individual
+              file_template: %y/%m/%f
+      page:
+      archive:
+        category_archive:
+          label: Category Archive
+          mappings:
+            category:
+              archive_type: Category
+              file_template: %c/%i
+        datebased_archive:
+          label: Date-Based Archive
+          mappings:
+            monthly:
+              archive_type: Monthly
+              file_template: %y/%m/%i
+      custom:
+        banner:
+          label: Banner
+        header:
+          label: Header
+        links:
+          label: links
+        listening:
+          label: listening
+        profile:
+          label: Profile
+        profile_banner:
+          label: profile banner
+        reading:
+          label: reading
+        teaching_materials:
+          label: teaching materials
+      widget:
+      system:
+        comment_preview_template:
+          label: Comment Preview Template
+        comment_response:
+          label: Comment Response
+        dynamic_pages_error_template:
+          label: Dynamic Pages Error Template
+        search_results_template:
+          label: Search Results Template
+        uploaded_image_popup_template:
+          label: Uploaded Image Popup Template
+

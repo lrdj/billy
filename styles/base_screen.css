@@ -1,0 +1,180 @@
+body {
+	font-family:geneva,verdana,sans-serif;
+	color:#333366;
+	background-color:#ffffff;
+	font-size:9pt;
+	}	
+
+h1,h2 {
+	font-family:geneva,verdana,sans-serif;
+	color:#cc9933;
+	font-weight:bold;
+	font-size:9pt;
+	}
+
+h3,h4,h5,h6,h7 {
+	font-family:geneva,verdana,sans-serif;
+	color:#333366;
+	font-weight:bold;
+	font-size:9pt;
+	margin-top:1px;
+	margin-bottom:1px;
+	}
+
+p,ul,ol {
+	font-family:geneva,verdana,sans-serif;
+	color:#333366;
+	font-size:9pt;
+	}
+
+li,dt,dd {
+	font-family:geneva,verdana,sans-serif;
+	color:#333366;
+	font-size:9pt;
+	margin-top:1px;
+	margin-bottom:1px;
+	}
+
+cite { 
+	font-style: italic;
+	}
+
+blockquote, q {
+display:block;
+margin-left:20px;
+color:#666666;
+font-style: italic;
+}
+
+/*
+start of added blog classes.
+these classes describe the typography (colour, font) of parts of your blog
+please change here at your leisure
+
+I've changed them to silly different colours, so you can see which is which
+and commented out the original should you wish to return...
+*/
+
+.dateline {color:#cccccc;}
+/* .dateline {color:#9999cc;} */
+
+.subject {color:#9999cc;}
+/* .subject {color:#ff6600;} */
+
+.message {color:#666666;}
+/* .message {color:#333366;} */
+
+.xlink { border:1px solid #ffffff; }
+
+.xhover { border-color: #cc9933; }
+
+.post {
+	padding:0;
+	padding-bottom:1em;
+	border-left:1px solid #eeeeff;		
+	}
+
+.inputtypetext {
+	margin:1em;
+	border:0px;
+	color:#000033;
+	width:30em;
+	}
+
+.textareamessage {
+	margin:1em;
+	border:0px;
+	color:#000033;
+	width:30em;
+	height:200px;
+	}
+	
+	
+/* 
+css2 selectors
+these classes describe the layout (margin, indents) of the main structural parts of your blog
+ */
+
+#box1 {
+	position: relative;
+	padding:10px;
+	border-bottom:1px solid #eeeeff;		
+	}
+#bcwrapper{
+	position:relative;
+	display:block;
+	border-bottom:1px solid #eeeeff;		
+	}
+#bclinks {
+	position:absolute;
+	top:0;
+	padding-left:10px;
+	width:20%;
+    }
+#box2 {
+	position:relative;
+	padding-left:180px;
+	width:60%;
+	}
+#box3 {display:block;}
+
+/*
+end of added blog classes
+*/
+
+
+
+
+
+.startpagefeature {
+	border-top:1px #999999 solid;
+	padding-top:5px;
+	color:#999999;
+	margin-right:10px;
+	}
+
+
+/*  
+this version of class="copy" is from the first blog site - it replaces your original 
+*/
+.copy {
+	color: #9999cc;
+	padding-top: 50px;
+	text-align:center;
+	}
+
+/* 
+commented out: this is your original class="copy"
+.copy {
+	font-family:geneva,verdana,sans-serif;
+	color:#cccccc;
+	font-size:9px;
+	text-align:center;
+	margin-top:50px;
+	}
+*/
+
+.linklist {
+	margin-left:20px;
+	margin-bottom:1px;
+	}
+
+.dropcap {
+	color:#cc9933;
+	font-weight:bold;
+	font-size:10pt;
+	}
+		
+.nav {
+	color:#9999cc;
+	}
+
+a:link { color:#666699; }
+a.navlink:link { color:#9999cc; }
+a:visited { color:#666699; }
+a.navlink:visited { color:#9999cc; }
+a:hover { color:#333366; }
+a.navlink:hover { color:#666699; }
+a:active { color:#666699; }
+a.navlink:active { color:#cc9933; }
+

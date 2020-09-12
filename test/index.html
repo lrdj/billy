@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="Movable Type Open Source 4.2rc3-en" />
+    <link rel="stylesheet" href="http://blogs.mtengine.com/billy/styles.css" type="text/css" />
+    <link rel="start" href="http://blogs.mtengine.com/billy/" title="Home" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://blogs.mtengine.com/billy/atom.xml" />
+    <script type="text/javascript" src="http://blogs.mtengine.com/billy/mt.js"></script>
+    
+  <link rel="stylesheet" href="http://blogs.mtengine.com/billy/forum.css" type="text/css" />
+
+    <script type="text/javascript">
+    var adminurl = 'http://mtengine.pumpernickle.net/mt_cgi/' + 'mt.cgi';
+    var blog_id = '6';
+    var page_id = '';
+    </script>
+    
+    <title>test - Billy's blog</title>
+</head>
+<body id="universal-website" class=" layout-one-column">
+    <div id="container">
+        <div id="container-inner">
+            <div id="header">
+                <div id="header-inner">
+                    <div id="header-content">
+
+                        <div id="header-name"><a href="http://blogs.mtengine.com/billy/" accesskey="1">Billy's blog</a></div>
+                        <div id="header-description">music, language, life and leftovers</div>
+
+                        <div class="widget-sign-in widget">
+    <h3 class="widget-header">Sign In</h3>
+    <div id="signin-widget-content" class="widget-content"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+function mtUpdateSignInWidget(u) {
+    var el = document.getElementById('signin-widget-content');
+    if (!el) return;
+    if (u) {
+        if (u && u.is_authenticated) {
+            user = u;
+            mtSaveUser();
+        } else {
+            // user really isn't logged in; so let's do this!
+            return mtSignIn();
+        }
+    } else {
+        u = mtGetUser();
+    }
+    if (u) {
+        var url;
+        if (u.is_authenticated) {
+            if (u.is_author) {
+                url = 'http://mtengine.pumpernickle.net/mt_cgi/mt-comments.cgi?__mode=edit_profile&blog_id=6';
+                url += '&static=' + encodeURIComponent( location.href );
+            } else {
+                url = u.url;
+            }
+        } else if (u.url) {
+            url = u.url;
+        } else {
+            url = null;
+        }
+        var content = 'You are signed in as ';
+        if (url)
+            content += '<a href="' + url + '">' + u.name + '</a>';
+        else
+            content += u.name;
+        content += '.  (<a href="javascript:void(0)" onclick="return mtSignOutOnClick()">sign out</a>)';
+    } else if (u && u.is_banned) {
+        content = 'You do not have permission to sign in to this blog.';
+    } else {
+        content = '<a href="javascript:void(0)" onclick="return mtSignInOnClick(\'signin-widget-content\')">Sign In</a>';
+    }
+    el.innerHTML = content;
+}
+mtAttachEvent('usersignin', mtUpdateSignInWidget);
+mtUpdateSignInWidget();
+/* ]]> */
+</script>
+
+                    </div>
+                </div>
+            </div>
+            <div id="main-navigation">
+                <div id="main-navigation-inner">
+                    <ul>
+    <li class="first"><a href="http://blogs.mtengine.com/billy/">Home</a></li>
+    <li class=""><a href="http://blogs.mtengine.com/billy/blog/">Blog</a></li>
+    
+    
+    
+    
+    
+    
+    
+</ul>
+
+
+                    <div class="widget-search widget">
+    <h3 class="widget-header">Search</h3>
+    <div class="widget-content">
+        <form method="get" action="http://mtengine.pumpernickle.net/mt_cgi/mt-search.cgi">
+            <input type="text" id="search" class="ti" name="search" value="" />
+
+            <input type="hidden" name="IncludeBlogs" value="6" />
+
+            <input type="hidden" name="limit" value="20" />
+            <input type="submit" accesskey="4" value="Search" />
+        </form>
+    </div>
+</div>
+
+                </div>
+            </div>
+            <div id="content">
+                <div id="content-inner">
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+
+
+<p><strong><a href="http://blogs.mtengine.com/billy/forum.html">Forum Home</a>&nbsp;&gt;&nbsp;test</strong></p>
+
+<h1 class="asset-name">test</h1>
+
+
+
+<div class="topic-actions" >
+			<div class="buttons">
+
+			<div class="post-icon"><a href="http://blogs.mtengine.com/billy/forum_submit.html?forum_id=386" title="Post a new topic"><span></span>Post a new topic</a></div>
+		</div>
+        </div>
+
+<div class="forum-container">
+		<div class="forumbg announcements">
+		<div class="inner"><span class="corners-top"><span></span></span>
+		<ul class="topiclist">
+			<li class="header">
+				<dl class="icon">
+					<dt>Topics</dt>
+					<dd class="posts">Replies</dd>
+
+		
+					<dd class="lastpost"><span>Last post</span></dd>
+				</dl>
+			</li>
+		</ul>
+		<ul class="topiclist topics">
+
+
+		<li class="row bg1"><p>There are no topics in this forum.</p></li>
+
+
+
+				</ul>
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+</div>
+
+</div>
+                    </div>
+                <div id="beta">
+    <div id="beta-inner">
+
+    </div>
+</div>
+
+
+
+                </div>
+            </div>
+            <div id="footer">
+                <div id="footer-inner">
+                    <div id="footer-content">
+                        <div class="widget-powered widget">
+    <div class="widget-content">
+        <span>Powered by <a href="http://www.movabletype.com/" rel="generator">Movable Type Open Source</a></span>
+    </div>
+</div>
+
+                        <div class="widget-footer-links widget">
+    <h3 class="widget-header">Links</h3>
+    <div class="widget-content">
+        <ul>
+            <li><a href="http://blogs.mtengine.com/billy/">Home</a></li>
+
+        </ul>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

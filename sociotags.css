@@ -1,0 +1,28 @@
+.sociotags
+  {
+  }
+.sociotags ul
+  {
+  float: left;
+  border: 0px solid #00a;
+  font-size: 8pt;
+  width: auto;
+  height: 22px;
+  margin: 0;
+  padding:0 1em 0 0;
+  }
+.sociotags ul li
+  {
+  display: inline;
+  margin: 0;
+  border: 0;
+  }
+.sociotags ul li a
+  {
+  }
+.sociotags ul li a img
+  {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  }

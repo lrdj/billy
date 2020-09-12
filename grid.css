@@ -1,0 +1,70 @@
+
+
+/* CSS grid template by dug@donkeyontheedge.com 21 November 2004 */
+
+
+/* grid handling - edit with care!!! */
+
+#cd1 {width:75%;float:right;margin:0 0 0 20px;padding:120px 0 0 0;}
+#cd2 {width:100%;margin:0;padding:120px 0 0 0;}
+#cd3 {position:absolute;top:0;width:100%;margin:0;padding:20px 0 0 0;}
+#cd4 {margin:0;padding:0;width:100%;clear: both;}
+
+
+/* document defaults */
+
+html, body {width:100%;margin:0;padding:0;background:#fff;}
+
+
+/* image handling */
+
+img {border:none;padding:0;}
+img.left {float:left;margin:0 1em 1em 0;}
+img.right {float:right;margin:0 0 1em 1em;}
+.center {text-align:center;}
+
+
+/* Navigation elements */
+
+#cd3 {text-align:center;}
+#primarynavbar {width:100%;border-top:7px solid #36c;background:#eee;margin:0;padding:0.5em 0 0.5em 0;}
+
+
+/* grid outlining and margin controls */
+
+#cd1 {border-left:1px solid #36c;}
+
+#cd3 {border-bottom:1px solid #36c;background:#fff;}
+#cd4 {border-top:1px solid #36c;background:#eee;}
+#cd1 h1,#cd1 h2,#cd1 h3,#cd1 p {padding-left:15px;}
+#cd2 h1,#cd2 h2,#cd2 h3,#cd2 p {padding-left:15px;}
+
+
+/* Core typography */
+
+body div {font-family:helvetica, sans-serif;line-height:110%;}
+
+
+/* Miscellaneous typography */
+
+#cd4 {text-align:center;}
+#cd4 p {font-size:x-small;color:#333;padding:1em 0 1em 0;}
+
+
+/* Size keyword settings */
+
+p, h1, h2, h3, h4, h5, h6, h7, li, dd {
+    font-size: x-small;      
+    /* false value for WinIE4/5 */
+    voice-family: "\"}\"";   
+    /* trick WinIE4/5 into thinking rule is over */
+    voice-family: inherit;   
+    /* recover from trick */
+    font-size: small
+    /* intended value for better browsers */
+    }
+
+h1, h2, h3, h4, h5, h6, h7 {
+	font-size:105%;margin:1em 0 0.5em 0;padding:0;
+	}
+
