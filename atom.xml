@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Billy Clark</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/" />
-    <link rel="self" type="application/atom+xml" href="http://billyclark.net/atom.xml" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/" />
+    <link rel="self" type="application/atom+xml" href="https://lrdj.github.io/billy/atom.xml" />
     <id>tag:billyclark.net,2008-07-10://6</id>
     <updated>2012-11-03T19:04:19Z</updated>
     <subtitle>Billy Clark&apos;s website. Billy is a linguist living and working in North London</subtitle>
@@ -10,7 +10,7 @@
 
 <entry>
     <title>Students and Social Media</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2012/11/students-and-so.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2012/11/students-and-so.html" />
     <id>tag:billyclark.net,2012://6.14739</id>
 
     <published>2012-11-03T18:53:54Z</published>
@@ -23,7 +23,7 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
         <![CDATA[<p><a href="http://www.insidehighered.com/blogs/stratedgy/students-and-social-media">Inside Higher Ed -- Students and Social Media</a></p>
 
 <p>I recognise some of the differences in attitudes to social media among (some) academics and (some) students discussed here.</p>
@@ -41,7 +41,7 @@
 
 <entry>
     <title>induction challenge</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2012/10/induction-chall.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2012/10/induction-chall.html" />
     <id>tag:billyclark.net,2012://6.14735</id>
 
     <published>2012-10-03T13:51:09Z</published>
@@ -54,8 +54,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><img alt="nim.jpg" src="http://billyclark.net/images/nim.jpg" width="230" height="138" class="mt-image-none" style="" /></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><img alt="nim.jpg" src="https://lrdj.github.io/billy/images/nim.jpg" width="230" height="138" class="mt-image-none" style="" /></p>
 
 <p>There is a prize for the first student this year to tell me who this is B--)</p>]]>
         
@@ -64,7 +64,7 @@
 
 <entry>
     <title>Conan Doyle interviewed</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2012/09/conan-doyle-int.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2012/09/conan-doyle-int.html" />
     <id>tag:billyclark.net,2012://6.14732</id>
 
     <published>2012-09-30T12:30:53Z</published>
@@ -77,8 +77,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><a href="http://www.youtube.com/watch?v=4eq18U5btcg"><img alt="conandoyle.png" src="http://billyclark.net/images/conandoyle.png" width="503" height="353" class="mt-image-none" style="" /></a></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><a href="http://www.youtube.com/watch?v=4eq18U5btcg"><img alt="conandoyle.png" src="https://lrdj.github.io/billy/images/conandoyle.png" width="503" height="353" class="mt-image-none" style="" /></a></p>
 
 <p>If you haven't seen it, here's a filmed 'interview' with Conan Doyle talking about how he created Holmes and the doctor who provided the inspiration for Holmes's techniques.</p>
 
@@ -98,7 +98,7 @@ B--)<br />
 
 <entry>
     <title>duchess of death</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2012/09/duchess-of-deat.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2012/09/duchess-of-deat.html" />
     <id>tag:billyclark.net,2012://6.14731</id>
 
     <published>2012-09-30T11:48:44Z</published>
@@ -117,8 +117,8 @@ B--)<br />
         <category term="linguistics" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><a href="http://www.guardian.co.uk/books/2012/sep/28/agatha-christie-why-i-got-fed-up-with-poirot?newsfeed=true"><img alt="AgathaChristie.jpg" src="http://billyclark.net/images/AgathaChristie.jpg" width="460" height="276" class="mt-image-none" style="" /></a></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><a href="http://www.guardian.co.uk/books/2012/sep/28/agatha-christie-why-i-got-fed-up-with-poirot?newsfeed=true"><img alt="AgathaChristie.jpg" src="https://lrdj.github.io/billy/images/AgathaChristie.jpg" width="460" height="276" class="mt-image-none" style="" /></a></p>
 
 <p><a href="http://www.guardian.co.uk/books/2012/sep/28/agatha-christie-why-i-got-fed-up-with-poirot?newsfeed=true">Guardian Review - The duchess of death</a></p>
 
@@ -132,11 +132,11 @@ B--)<br />
 
 <p>It looks like this is (part or all of) a preface to a new edition of <a href="http://www.amazon.co.uk/Ask-Policeman-The-Detection-Club/dp/0007468628/">Ask A Policeman</a>:</p>
 
-<p><a href="http://www.amazon.co.uk/Ask-Policeman-The-Detection-Club/dp/0007468628/"><img alt="askapoliceman.png" src="http://billyclark.net/images/askapoliceman.png" width="162" height="258" class="mt-image-none" style="" /></a></p>
+<p><a href="http://www.amazon.co.uk/Ask-Policeman-The-Detection-Club/dp/0007468628/"><img alt="askapoliceman.png" src="https://lrdj.github.io/billy/images/askapoliceman.png" width="162" height="258" class="mt-image-none" style="" /></a></p>
 
 <p>If you'd like to read more about Agatha, I'd recommend my colleague Merja Makinen's <a href="http://www.amazon.co.uk/Agatha-Christie-Investigating-Femininity-Crime/dp/1403941718/">Agatha Christie - Investigating Femininity</a>:</p>
 
-<p><a href="http://www.amazon.co.uk/Agatha-Christie-Investigating-Femininity-Crime/dp/1403941718/"><img alt="makinen_agathachristie.jpg" src="http://billyclark.net/images/makinen_agathachristie.jpg" width="164" height="258" class="mt-image-none" style="" /></a></p>
+<p><a href="http://www.amazon.co.uk/Agatha-Christie-Investigating-Femininity-Crime/dp/1403941718/"><img alt="makinen_agathachristie.jpg" src="https://lrdj.github.io/billy/images/makinen_agathachristie.jpg" width="164" height="258" class="mt-image-none" style="" /></a></p>
 
 <p>There's also an interesting paper by Siobhan Chapman in a <a href="http://www.degruyter.com/view/j/jls.2012.41.issue-2/issue-files/jls.2012.41.issue-2.xml">special issue of the Journal of Literary Semantics</a> I edited recently:</p>
 
@@ -153,7 +153,7 @@ B--)<br />
 
 <entry>
     <title>students and feminism</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2012/09/students-and-fe.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2012/09/students-and-fe.html" />
     <id>tag:billyclark.net,2012://6.14730</id>
 
     <published>2012-09-26T09:26:48Z</published>
@@ -166,8 +166,8 @@ B--)<br />
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><a href="http://www.royalcourttheatre.com/whats-on/jumpy-panel-discussion"><img alt="jumpypaneldiscussion.jpg" src="http://billyclark.net/images/jumpypaneldiscussion.jpg" width="510" height="340" class="mt-image-none" style="" /></a></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><a href="http://www.royalcourttheatre.com/whats-on/jumpy-panel-discussion"><img alt="jumpypaneldiscussion.jpg" src="https://lrdj.github.io/billy/images/jumpypaneldiscussion.jpg" width="510" height="340" class="mt-image-none" style="" /></a></p>
 
 <p>I went to a really interesting discussion at the Duke of York's theatre last night:</p>
 
@@ -188,7 +188,7 @@ B--)<br />
 
 <entry>
     <title>Billy on the radio</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2011/03/billy-on-the-ra.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2011/03/billy-on-the-ra.html" />
     <id>tag:billyclark.net,2011://6.14703</id>
 
     <published>2011-03-01T08:19:58Z</published>
@@ -205,12 +205,12 @@ B--)<br />
         <category term="linguistics" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://billyclark.net/sounds/billyonmainstreet_cbc_121111.MP3"><img alt="mainstreetinterview.jpg" src="http://billyclark.net/images/mainstreetinterview_wee_2.jpg" width="461" height="614" class="mt-image-none" style="" /></a></span></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="https://lrdj.github.io/billy/sounds/billyonmainstreet_cbc_121111.MP3"><img alt="mainstreetinterview.jpg" src="https://lrdj.github.io/billy/images/mainstreetinterview_wee_2.jpg" width="461" height="614" class="mt-image-none" style="" /></a></span></p>
 
 <p>I had a great time in <span class="caps">PEI </span>last year at the <a href="http://web.me.com/annefurlong/www.APLA_34_ALPA_34.com/APLA_34_ALPA_34.html/"><span class="caps">APLA</span></a> conference. A highlight was my first radio appearance discussing academic work. Karen Mair interviewed me for <a href="http://www.cbc.ca/mainstreetpei/">Mainstreet <span class="caps">PEI</span></a> She was an excellent host and I really enjoyed the experience. Here's the sound file if you want to listen to it:</p>
 
-<p><span class="mt-enclosure mt-enclosure-audio" style="display: inline;"><a href="http://billyclark.net/sounds/billyonmainstreet_cbc_121111.MP3">billyonmainstreet_cbc_121111.MP3</a></span></p>
+<p><span class="mt-enclosure mt-enclosure-audio" style="display: inline;"><a href="https://lrdj.github.io/billy/sounds/billyonmainstreet_cbc_121111.MP3">billyonmainstreet_cbc_121111.MP3</a></span></p>
 
 <p>B--)</p>]]>
         
@@ -219,7 +219,7 @@ B--)<br />
 
 <entry>
     <title>do lectures exist?</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2010/07/do-lectures-exi.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2010/07/do-lectures-exi.html" />
     <id>tag:billyclark.net,2010://6.14672</id>
 
     <published>2010-07-09T14:58:36Z</published>
@@ -234,8 +234,8 @@ B--)<br />
         <category term="Internet culture" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="rusbridger1.jpg" src="http://billyclark.net/images/rusbridger1.jpg" width="460" height="276" class="mt-image-none" style="" /></span></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="rusbridger1.jpg" src="https://lrdj.github.io/billy/images/rusbridger1.jpg" width="460" height="276" class="mt-image-none" style="" /></span></p>
 
 <p>I went to a fantastic event for <a href="http://www.guardian.co.uk/extra">Guardian Extra</a> members last night. Alan Rusbridger (re-) presented the <a href="http://www.guardian.co.uk/media/2010/jan/25/cudlipp-lecture-alan-rusbridger">Hugh Cudlipp lecture</a> he originally gave in January, with the title 'Does Journalism Exist?' It was a fascinating discussion of current issues facing journalists/ newsmakers/news proprietors, beautifully presented and in a nice, informal and collaborative atmosphere. It also got me thinking about lectures in general and what a lecture is.</p>
 
@@ -256,7 +256,7 @@ B--)<br />
 
 <entry>
     <title>quick not crisp</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2010/06/quick-not-crisp.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2010/06/quick-not-crisp.html" />
     <id>tag:billyclark.net,2010://6.14670</id>
 
     <published>2010-06-24T15:28:26Z</published>
@@ -269,7 +269,7 @@ B--)<br />
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
         <![CDATA[<p>I've been taking my beer reviewing task pretty seriously, far more seriously it seems than the Italians have been taking their football preparation. With my main aim being to write my <a href="http://pencilandspoon.blogspot.com/2010/06/world-cup-beer-sweepstake-big-draw.html">Beer World Cup</a> review while my team are still in the tournament, and Italy currently standing aside to make way for Slovakia in the last 16, there's no more time to faff around. So here goes.</p>
 
 <p>Initial thoughts were that the obvious Italian beers are Peroni and Moretti. Initial text-based research suggests that the obvious adjective to describe Italian beer is 'crisp'. New research topic suggests itself: has anybody ever written a sentence containing the words 'Italian' and 'beer' that does not include the word 'crisp'? What does 'crisp' mean exactly? Essentially, it means they're not going for big, complex flavours. They're going for thirst-quenching. But they're also aiming not to be water. </p>
@@ -301,7 +301,7 @@ B--)<br />
 
 <entry>
     <title>beer procrastination</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2010/06/beer-procrastin.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2010/06/beer-procrastin.html" />
     <id>tag:billyclark.net,2010://6.14669</id>
 
     <published>2010-06-24T11:14:08Z</published>
@@ -314,7 +314,7 @@ B--)<br />
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
         <![CDATA[<p>Still haven't blogged an Italian beer review. I was hoping to find something more interesting than the standard range (2 Peronis and a Moretti). Ohna found Marks and Spencer's's 'Italian Lager Made With Pure Spring Water From The Alps' for me so I've got a fourth option (wondering who really makes that, though). I should probably post before 3pm today as you never know what Slovakia might do and I wouldn't want to be blogging after already losing on the calcio side of things.  Unfortunately, I do have other things to be writing ...</p>]]>
         
     </content>
@@ -322,7 +322,7 @@ B--)<br />
 
 <entry>
     <title>beer world cup</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2010/06/beer-world-cup.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2010/06/beer-world-cup.html" />
     <id>tag:billyclark.net,2010://6.14666</id>
 
     <published>2010-06-20T13:06:05Z</published>
@@ -335,7 +335,7 @@ B--)<br />
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
         <![CDATA[<p>I drew Italy in the <a href="http://pencilandspoon.blogspot.com/2010/06/world-cup-beer-sweepstake-big-draw.html">beer world cup</a></p>
 
 <p>Pretty good draw, seeing as Italian beer is easy to get hold of and that Italy tend to be pretty good at football (My task is to post a review of an Italian beer before the end of the tournament. If I do, and if Italy win, I get three cases of interesting beer).</p>
@@ -349,7 +349,7 @@ B--)<br />
 
 <entry>
     <title>Paul Grice: Philosopher and Linguist</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2009/11/paul-grice-phil.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2009/11/paul-grice-phil.html" />
     <id>tag:billyclark.net,2009://6.14618</id>
 
     <published>2009-11-20T13:36:51Z</published>
@@ -362,8 +362,8 @@ B--)<br />
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><a href="http://tinyurl.com/gricephilosopher"><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="grice.jpg" src="http://billyclark.net/images/grice.jpg" width="500" height="500" class="mt-image-none" style=""/></span></a></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><a href="http://tinyurl.com/gricephilosopher"><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="grice.jpg" src="https://lrdj.github.io/billy/images/grice.jpg" width="500" height="500" class="mt-image-none" style=""/></span></a></p>
 
 <p><a href="http://tinyurl.com/gricephilosopher">Paul Grice: Philosopher and Linguist</a></p>
 
@@ -382,7 +382,7 @@ B--)<br />
 
 <entry>
     <title>procedural meaning presentation</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2009/11/procedural-mean.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2009/11/procedural-mean.html" />
     <id>tag:billyclark.net,2009://6.14616</id>
 
     <published>2009-11-10T09:56:29Z</published>
@@ -397,8 +397,8 @@ B--)<br />
         <category term="linguistics" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-file" style="display: inline;"><a href="http://billyclark.net/talks/billytimMadrid2009.ppt">Billy and Tim on prosody and procedural meaning</a></span></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-file" style="display: inline;"><a href="https://lrdj.github.io/billy/talks/billytimMadrid2009.ppt">Billy and Tim on prosody and procedural meaning</a></span></p>
 
 <p>Finally uploaded our talk on procedural meaning and prosody from the conference in Madrid in October.</p>
 
@@ -409,7 +409,7 @@ B--)<br />
 
 <entry>
     <title>roller blading drama</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2009/08/roller-blading.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2009/08/roller-blading.html" />
     <id>tag:billyclark.net,2009://6.14591</id>
 
     <published>2009-08-25T05:12:43Z</published>
@@ -424,7 +424,7 @@ B--)<br />
         <category term="Adventures with the Clark family" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
         <![CDATA[<p>Ohna had one of those phone calls yesterday: 'Hello, it's PC Burgess here. I'm calling about your daughter...'</p>
 
 <p>Apoa's OK but she had a bit of a narrow escape. As ever, I was piecing the story together bit by bit yesterday via phone calls and texts from the hospital etc. Here's how I understand the story now.</p>
@@ -440,7 +440,7 @@ B--)<br />
 
 <entry>
     <title>the contortionist</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2009/08/the-contortioni.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2009/08/the-contortioni.html" />
     <id>tag:billyclark.net,2009://6.14590</id>
 
     <published>2009-08-16T09:23:31Z</published>
@@ -455,8 +455,8 @@ B--)<br />
         <category term="Cycle loving speccie" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><a href="http://www.lcc.org.uk/index.asp?PageID=1463"><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Contortionist_round_372.jpg" src="http://billyclark.net/images/Contortionist_round_372.jpg" width="372" height="279" class="mt-image-none" style="" /></span></a></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><a href="http://www.lcc.org.uk/index.asp?PageID=1463"><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="Contortionist_round_372.jpg" src="https://lrdj.github.io/billy/images/Contortionist_round_372.jpg" width="372" height="279" class="mt-image-none" style="" /></span></a></p>
 
 <p><a href="http://www.lcc.org.uk/index.asp?PageID=1463">London Cycling Campaign -- bike design nominated for Dyson award</a></p>
 
@@ -469,7 +469,7 @@ B--)<br />
 
 <entry>
     <title>inference and writing</title>
-    <link rel="alternate" type="text/html" href="http://billyclark.net/2009/08/inference-and-w.html" />
+    <link rel="alternate" type="text/html" href="https://lrdj.github.io/billy/2009/08/inference-and-w.html" />
     <id>tag:billyclark.net,2009://6.14588</id>
 
     <published>2009-08-10T09:36:55Z</published>
@@ -484,8 +484,8 @@ B--)<br />
         <category term="linguistics" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="en" xml:base="http://billyclark.net/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-file" style="display: inline;"><a href="http://billyclark.net/talks/pala2009_billyandnicky_final.pps">pala2009_billyandnicky_final.pps</a></span></p>
+    <content type="html" xml:lang="en" xml:base="https://lrdj.github.io/billy/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-file" style="display: inline;"><a href="https://lrdj.github.io/billy/talks/pala2009_billyandnicky_final.pps">pala2009_billyandnicky_final.pps</a></span></p>
 
 <p>Here's the presentation from the paper Nicky and I worked on which I presented at <span class="caps">PALA </span>in Middelburg,</p>
 

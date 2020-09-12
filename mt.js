@@ -208,7 +208,7 @@ function mtFetchUser(cb) {
         // from a different domain. JSONP to the rescue.
         mtFetchedUser = true;
         var script = document.createElement('script');
-        script.src = 'http://billyclark.net/admin/mt-comments.cgi?__mode=session_js&blog_id=6&jsonp=' + cb;
+        script.src = 'https://lrdj.github.io/billy/admin/mt-comments.cgi?__mode=session_js&blog_id=6&jsonp=' + cb;
         (document.getElementsByTagName('head'))[0].appendChild(script);
     }
 }
@@ -325,7 +325,7 @@ mtAttachEvent('usersignin', mtUserOnLoad);
 function mtSignIn() {
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://billyclark.net/admin/mt-cp.cgi?__mode=login&blog_id=6';
+    var url = 'https://lrdj.github.io/billy/admin/mt-cp.cgi?__mode=login&blog_id=6';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -370,7 +370,7 @@ function mtSignOut(entry_id) {
     mtClearUser();
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://billyclark.net/admin/mt-cp.cgi?__mode=logout&static=0&blog_id=6';
+    var url = 'https://lrdj.github.io/billy/admin/mt-cp.cgi?__mode=logout&static=0&blog_id=6';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -416,7 +416,7 @@ function mtShowGreeting() {
         } else {
             var user_link;
             if ( u.is_author ) {
-                user_link = '<a href="http://billyclark.net/admin/mt-comments.cgi?__mode=edit_profile&blog_id=6';
+                user_link = '<a href="https://lrdj.github.io/billy/admin/mt-comments.cgi?__mode=edit_profile&blog_id=6';
                 if (entry_id)
                     user_link += '&entry_id=' + entry_id;
                 user_link += '">' + u.name + '</a>';

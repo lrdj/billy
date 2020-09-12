@@ -3,12 +3,12 @@
 <service>
 <engineName>Movable Type Pro 4.38</engineName>
 <engineLink>http://www.sixapart.com/movabletype/</engineLink>
-<homePageLink>http://billyclark.net/</homePageLink>
+<homePageLink>https://lrdj.github.io/billy/</homePageLink>
 <apis>
-<api name="MetaWeblog" preferred="true" apiLink="http://billyclark.net/admin/mt-xmlrpc.cgi" blogID="6" />
-<api name="MovableType" preferred="false" apiLink="http://billyclark.net/admin/mt-xmlrpc.cgi" blogID="6" />
-<api name="Blogger" preferred="false" apiLink="http://billyclark.net/admin/mt-xmlrpc.cgi" blogID="6" />
-<api name="Atom" preferred="false" apiLink="http://billyclark.net/admin/mt-atom.cgi/weblog" blogID="6" />
+<api name="MetaWeblog" preferred="true" apiLink="https://lrdj.github.io/billy/admin/mt-xmlrpc.cgi" blogID="6" />
+<api name="MovableType" preferred="false" apiLink="https://lrdj.github.io/billy/admin/mt-xmlrpc.cgi" blogID="6" />
+<api name="Blogger" preferred="false" apiLink="https://lrdj.github.io/billy/admin/mt-xmlrpc.cgi" blogID="6" />
+<api name="Atom" preferred="false" apiLink="https://lrdj.github.io/billy/admin/mt-atom.cgi/weblog" blogID="6" />
 </apis>
 </service>
 </rsd>
